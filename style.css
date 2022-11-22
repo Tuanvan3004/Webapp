@@ -30,16 +30,7 @@ body{
     color:#FFF;
 
 }
-#grey{
-    background: rgb(159,159,159);
-    background: radial-gradient(circle, rgba(159,159,159,1) 0%, rgba(93,93,93,1) 100%);
-    display:none;
-}
-button{
-    margin:20px 0;
-    width:100%;
-    padding:20px;
-}
+
 /*
 =================================================
 TYPOGRAPHY
@@ -57,7 +48,4 @@ h2{
 
 #blueDate{
     color:#ccc;
-}
-#greyDate{
-    color:#FFF;
 }
